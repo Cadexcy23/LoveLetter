@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoveLetter", "LoveLetter.vcxproj", "{2350F41E-1E6B-4118-ADBA-E67B103E0CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2350F41E-1E6B-4118-ADBA-E67B103E0CAC}.Debug|x64.ActiveCfg = Debug|x64
+		{2350F41E-1E6B-4118-ADBA-E67B103E0CAC}.Debug|x64.Build.0 = Debug|x64
+		{2350F41E-1E6B-4118-ADBA-E67B103E0CAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{2350F41E-1E6B-4118-ADBA-E67B103E0CAC}.Debug|x86.Build.0 = Debug|Win32
+		{2350F41E-1E6B-4118-ADBA-E67B103E0CAC}.Release|x64.ActiveCfg = Release|x64
+		{2350F41E-1E6B-4118-ADBA-E67B103E0CAC}.Release|x64.Build.0 = Release|x64
+		{2350F41E-1E6B-4118-ADBA-E67B103E0CAC}.Release|x86.ActiveCfg = Release|Win32
+		{2350F41E-1E6B-4118-ADBA-E67B103E0CAC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38377192-3963-4449-B36F-9F0EB78C970E}
+	EndGlobalSection
+EndGlobal
